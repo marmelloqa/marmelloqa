@@ -1,150 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rafael%20Marmello&fontAlignY=35&animation=fadeIn&desc=Software%20Quality%20Assurance&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello,%20World!&fontAlign=50&fontAlignY=35&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Quality+Before+Writing+Code.;Software+Quality+Assurance.;API+Testing.;Manual+Testing.;Python.;Test+Automation.;Continuous+Learning." />
+# Rafael Marmello
 
----
+### Software Quality Assurance
 
-# 🇧🇷 Olá! Eu sou Rafael Marmello
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=900&lines=Building+Quality+Before+Writing+Code.;API+Testing.;Manual+Testing.;Python.;JavaScript.;SQL.;Test+Automation.;Continuous+Learning."/>
 
-**Software Quality Assurance**
-
-Construindo qualidade antes da primeira linha de código.
+</div>
 
 ---
 
-# 🇺🇸 Hello! I'm Rafael Marmello
+# 👨🏻‍💻 About Me
 
-**Software Quality Assurance**
+🇺🇸
 
-Building Quality Before Writing Code.
+Software Quality Assurance enthusiast focused on building a solid career in software testing and quality engineering.
 
----
+Currently pursuing a degree in **Systems Analysis and Development**, continuously improving my skills through practical projects involving API Testing, SQL, Git, Python and Test Automation.
 
-### 📌 Current Focus
+My goal is to become a QA Engineer capable of building quality into software from the very beginning of the development lifecycle.
 
-QA Portfolio
+🇧🇷
 
-API Testing
+Entusiasta de Qualidade de Software focado em construir uma carreira sólida em testes e engenharia de qualidade.
 
-Manual Testing
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos práticos envolvendo testes de API, SQL, Git, Python e Automação de Testes.
 
-Software Testing Fundamentals
-
-Python for QA
-
-SQL
-
-Git & GitHub
-
-Automation (Learning)
-
-Robot Framework
-
-Playwright
+Meu objetivo é me tornar um QA Engineer capaz de construir qualidade desde o início do desenvolvimento de software.
 
 ---
 
-## 🌎 Connect with me
+# 🚀 Current Focus
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rafael-marmello-492809329/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contatomarmello@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/marmelloqa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- QA Portfolio
+- API Testing
+- Manual Testing
+- SQL
+- Python
+- Git & GitHub
+- Test Documentation
+- Software Testing
+- Test Automation
 
 ---
 
 # 💻 Tech Stack
 
-### QA
+## Languages
 
-<p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/API%20Testing-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Manual%20Testing-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Test%20Cases-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Bug%20Reports-DC143C?style=for-the-badge"/>
-
-</p>
-
-### Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
-
-### Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Test%20Automation-Learning-orange?style=for-the-badge"/>
-
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# 📂 Featured Repository
+## QA Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Currently Learning
+
+- Robot Framework
+- Playwright
+
+---
+
+# 📂 Featured Projects
 
 ### QA Studies
 
-Software Quality Assurance study repository containing:
+Repository containing practical studies focused on Software Quality Assurance.
 
-✔ API Testing
+Topics:
 
-✔ Manual Testing
+- API Testing
+- SQL
+- Python
+- Git
+- Documentation
+- Automation Studies
 
-✔ Test Cases
-
-✔ Bug Reports
-
-✔ SQL Studies
-
-✔ Python for QA
-
-✔ Automation Roadmap
-
-📁 Repository:
+Repository:
 
 https://github.com/marmelloqa/qa-studies
 
@@ -154,34 +100,48 @@ https://github.com/marmelloqa/qa-studies
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marmelloqa&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marmelloqa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marmelloqa&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marmelloqa&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=marmelloqa&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=marmelloqa&theme=tokyonight"/>
 
 </p>
 
 ---
 
-### 📍 Status
+# 🌎 Connect with Me
 
-🎓 Analysis and Systems Development Student
+<p align="center">
 
-🧪 Transitioning to Software Quality Assurance
+<a href="https://www.linkedin.com/in/rafael-marmello-492809329">
 
-📚 Learning every day
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
-🚀 Building a professional QA portfolio
+</a>
 
-Since 2025
+<a href="mailto:contatomarmello@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<div align="center">
+
+### Quality First.
+
+Documentation.
+
+Automation.
+
+Continuous Learning.
 
 </div>
