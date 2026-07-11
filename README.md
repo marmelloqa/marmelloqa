@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello,%20World!&fontAlign=50&fontAlignY=35&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4F46E5,50:2563EB,100:06B6D4&text=Rafael%20Marmello&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn"/>
 
-# Rafael Marmello
+## Software Quality Assurance
 
-### Software Quality Assurance
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=900&lines=Building+Quality+Before+Writing+Code.;API+Testing.;Manual+Testing.;Python.;JavaScript.;SQL.;Test+Automation.;Continuous+Learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hello%2C+World!;Building+Quality+Before+Writing+Code.;Software+Quality+Assurance.;API+Testing.;Manual+Testing.;Python.;JavaScript.;SQL.;Test+Automation.;Continuous+Learning."/>
 
 </div>
 
@@ -16,29 +14,30 @@
 
 🇺🇸
 
-Software Quality Assurance enthusiast focused on building a solid career in software testing and quality engineering.
+Software Quality Assurance enthusiast focused on building reliable software through testing, documentation and automation.
 
-Currently pursuing a degree in **Systems Analysis and Development**, continuously improving my skills through practical projects involving API Testing, SQL, Git, Python and Test Automation.
+Currently pursuing a degree in **Systems Analysis and Development**, building practical QA projects using API Testing, SQL, Git, Python and Test Automation.
 
-My goal is to become a QA Engineer capable of building quality into software from the very beginning of the development lifecycle.
+My goal is to become a QA Engineer specialized in Automation and, in the future, Cybersecurity.
 
 🇧🇷
 
-Entusiasta de Qualidade de Software focado em construir uma carreira sólida em testes e engenharia de qualidade.
+Entusiasta de Qualidade de Software focado em construir aplicações confiáveis por meio de testes, documentação e automação.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos práticos envolvendo testes de API, SQL, Git, Python e Automação de Testes.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos práticos de QA utilizando Testes de API, SQL, Git, Python e Automação.
 
-Meu objetivo é me tornar um QA Engineer capaz de construir qualidade desde o início do desenvolvimento de software.
+Objetivo: atuar como QA Engineer e evoluir posteriormente para Cyber Security.
 
 ---
 
 # 🚀 Current Focus
 
-- QA Portfolio
+- Software Quality Assurance Portfolio
 - API Testing
 - Manual Testing
 - SQL
 - Python
+- JavaScript
 - Git & GitHub
 - Test Documentation
 - Software Testing
@@ -68,27 +67,33 @@ Meu objetivo é me tornar um QA Engineer capaz de construir qualidade desde o in
 
 ---
 
-## Currently Learning
+# 🤖 Automation Journey
 
 - Robot Framework
 - Playwright
+- Selenium (Next Step)
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Project
 
-### QA Studies
+## Software Quality Assurance Portfolio
 
-Repository containing practical studies focused on Software Quality Assurance.
+Repository containing practical QA projects.
 
-Topics:
+✔ API Testing
 
-- API Testing
-- SQL
-- Python
-- Git
-- Documentation
-- Automation Studies
+✔ Test Cases
+
+✔ Bug Reports
+
+✔ SQL Studies
+
+✔ Python Studies
+
+✔ Documentation
+
+✔ Automation Roadmap
 
 Repository:
 
@@ -118,7 +123,7 @@ https://github.com/marmelloqa/qa-studies
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rafael-marmello-492809329">
+<a href="https://www.linkedin.com/in/rafael-marmello-492809329/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
@@ -136,7 +141,7 @@ https://github.com/marmelloqa/qa-studies
 
 <div align="center">
 
-### Quality First.
+## Quality First.
 
 Documentation.
 
