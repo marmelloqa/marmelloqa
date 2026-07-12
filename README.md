@@ -149,10 +149,6 @@
 
 <br>
 
-<!-- CAPSULE RENDER FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0a192f&height=120&section=footer" width="100%" />
-
-</div>
 ---
 
 # Current Focus
